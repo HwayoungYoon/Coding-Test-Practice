@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-2021 KAKAO Internship Test 1
+2020 KAKAO Internship Test 1
 """
 
 def distance(x1, y1, x2, y2):
