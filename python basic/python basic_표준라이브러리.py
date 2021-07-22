@@ -36,7 +36,7 @@ print(result)
 
 
 
-# itertools : 반복되는 형태의 데이터 처리, 순열과 조합 라이브러리 제공
+""" itertools : 반복되는 형태의 데이터 처리, 순열과 조합 라이브러리 제공 """
 
 
 
@@ -52,7 +52,7 @@ print(result)
 
 
 
-# heapq : 힙(Heap) 기능 제공, 우선순위 큐 기능 구현에 사용
+""" heapq : 힙(Heap) 기능 제공, 우선순위 큐 기능 구현에 사용 """
 
 
 
@@ -68,7 +68,7 @@ print(result)
 
 
 
-# bisect : 이진 탐색(Binary Search) 기능 제공
+""" bisect : 이진 탐색(Binary Search) 기능 제공 """
 
 
 
@@ -84,7 +84,7 @@ print(result)
 
 
 
-# collections : 덱(deque), 카운터(Counter) 등의 자료구조 포함
+""" collections : 덱(deque), 카운터(Counter) 등의 자료구조 포함 """
 
 
 
@@ -100,7 +100,7 @@ print(result)
 
 
 
-# math : 필수적인 수학적 기능 제공, !, 제곱근, 최대공약수, 삼각함수 등의 함수와 상수 pi
+""" math : 필수적인 수학적 기능 제공, !, 제곱근, 최대공약수, 삼각함수 등의 함수와 상수 pi """
 
 
 
