@@ -1,3 +1,15 @@
+def solution(s):
+    ss = s.split()
+    answer = []
+    for i in ss:
+        if i != 'Z':
+            answer.append(int(i))
+        else:
+            answer.pop()
+    return sum(answer)
+
+'''
+# 첫 번째 풀이
 import re
 def solution(s):
     ss = s.split()
@@ -7,3 +19,4 @@ def solution(s):
             ss[i-1] = -1
     ss = list(map(int, ss))
     return sum(ss)
+'''
