@@ -1,7 +1,6 @@
 from itertools import permutations
 def solution(k, dungeons):
     case = list(permutations(dungeons))
-    dl = len(dungeons)
     answer = 0
     for li in case:
         ans = 0
@@ -14,5 +13,4 @@ def solution(k, dungeons):
                 break
         if ans >= answer:
             answer = ans
-    
     return answer
